@@ -29,7 +29,7 @@ works and that the contracts need careful design before anything is built on the
 - **Connection-scoped access:** per-connection networks and credentials, revoked on disconnect
 - **Storage rebinding:** move an app's data to another storage node, with verification and rollback
 - **Management UI:** see and edit the graph; the UI is itself a node in the graph
-- **Real-world manifests** for 4–5 unmodified open-source apps (e.g. Immich, Medusa)
+- **Real-world manifests** for unmodified open-source apps such as Immich, Nextcloud and Medusa
 - **Spec v0**, written from the implementation, with its limits and open questions stated plainly
 
 Later: remote access, an SDK for apps that want finer-grained capabilities,
@@ -49,7 +49,7 @@ Rivarc especially needs perspectives from:
 - **Self-hosters:** which setups would you want to express as a graph?
 - **Hosting providers:** what would it take to offer Rivarc-compatible infrastructure?
 
-Contact: rivarc@bluda.tech or [GitHub Discussions](https://github.com/rivarc-org/rivarc/discussions)
+Contact: contact@rivarc.org or [GitHub Discussions](https://github.com/rivarc-org/rivarc/discussions)
 
 ## Licences
 
